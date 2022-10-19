@@ -1,0 +1,21 @@
+{
+    "manufacturer": "Tomas Barton",
+    "keyboard_name": "handwire1",
+    "maintainer": "tommz9",
+    "bootloader": "caterina",
+    "features": {
+        "bootmagic": false,
+        "command": false,
+        "console": false,
+        "extrakey": false,
+        "mousekey": false,
+        "nkro": true
+    },
+    "processor": "atmega32u4",
+    "url": "",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0xA34E",
+        "vid": "0xFEED"
+    }
+}
